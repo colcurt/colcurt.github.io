@@ -185,6 +185,7 @@ body {
 .eye_thing {
     background-color: white;
     display: flex;
+    flex-direction: row;
     gap: 15vw;
     justify-content: center;
     align-items: center;
